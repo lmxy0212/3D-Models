@@ -128,7 +128,56 @@ Lamina: 2 faces on top of each other
 
 
 
+UV mapping:
+
+- object mode -> select obj -> uv editor -> planner 
+- shift&right click edge -> cut
+- shift&right click  uv shell -> move
+
+
+
+## Dec 5
+
+cleanup
+
+select polygon
+
+
+
+smooth -> subdivision
+
+
+
+joystick
+
+
+
+cresas after smooth
+
+
+
+select face-> extrude-> make circular -> crease
+
+
+
+DUE 12.17
+
+last day of class 12.12
 
 
 
 
+
+
+
+smooth-> circular
+
+4 in the midle -> edit metsh -> average vertex -> g to repeat commend
+
+select border edge -> crease
+
+top -> crease
+
+remove redundent edges
+
+select -> collapse
